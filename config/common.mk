@@ -121,8 +121,5 @@ PRODUCT_PRODUCT_PROPERTIES += \
     debug.photos.force_pixel_eol=1 \
     debug.photos.p_editr.eraser=1
 
-# Inherit from audio config
-$(call inherit-product, vendor/pixel-style/config/audio.mk)
-
 # Inherit from rro_overlays config
 $(call inherit-product, vendor/pixel-style/config/rro_overlays.mk)
