@@ -34,5 +34,5 @@
     <string name="focal_area_target" translatable="false">com.google.android.apps.magicportrait.service.MagicPortraitWallpaperService</string>
 
     <!-- Launcher package name for overlaying icons. -->
-    <string name="launcher_overlayable_package" translatable="false">com.google.android.apps.nexuslauncher</string>
+    <string name="launcher_overlayable_package" translatable="false">com.android.launcher3</string>
 </resources>

@@ -46,8 +46,6 @@ PRODUCT_PACKAGES += \
     PixelContactsProvider \
     PixelDeviceDiagnostics \
     PixelDocumentsUIGoogleOverlay \
-    PixelLauncherNoGestureHintOverlay \
-    PixelLauncherOverlayCustom \
     PixelSettingsGoogle \
     PixelSettingsProvider \
     PixelSetupWizardOverlayExpressive \
