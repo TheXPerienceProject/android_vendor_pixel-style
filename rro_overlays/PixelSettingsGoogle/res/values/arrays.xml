@@ -19,12 +19,6 @@
         <item>23</item>
         <item>1452</item>
     </integer-array>
-    <string-array name="config_settings_slices_accessibility_components">
-        <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
-        <item>com.google.android.marvin.talkback/com.google.android.marvin.talkback.TalkBackService</item>
-        <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
-        <item>com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService</item>
-    </string-array>
     <integer-array name="datausage_hiding_carrier_service_carrier_id">
         <item>1802</item>
         <item>2032</item>

@@ -33,12 +33,6 @@
         <item>com.google.android.marvin.talkback/com.google.android.accessibility.selecttospeak.SelectToSpeakService</item>
     </string-array>
 
-    <!-- List containing the component names of pre-installed interaction control services [DO NOT TRANSLATE] -->
-    <string-array name="config_preinstalled_interaction_control_services" translatable="false">
-        <item>com.google.android.marvin.talkback/com.android.switchaccess.SwitchAccessService</item>
-        <item>com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService</item>
-    </string-array>
-
     <!-- Sound picker package name -->
     <string name="config_sound_picker_package_name" translatable="false">
         com.google.android.soundpicker
